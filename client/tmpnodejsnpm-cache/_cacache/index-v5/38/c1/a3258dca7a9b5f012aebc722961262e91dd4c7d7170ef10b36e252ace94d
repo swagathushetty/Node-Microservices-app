@@ -1,2 +1,0 @@
-
-9754ebd4ee55dc9e3f49f69ea52cf45c594aad52	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/destroy/-/destroy-1.0.4.tgz","integrity":"sha1-l4hXRCxEdJ5CBmE+N5RiBYJqvYA=","time":1644412116583,"size":2331,"metadata":{"url":"https://registry.npmjs.org/destroy/-/destroy-1.0.4.tgz","reqHeaders":{},"resHeaders":{"cache-control":"public, immutable, max-age=31557600","content-type":"application/octet-stream","date":"Wed, 09 Feb 2022 13:08:21 GMT","etag":"\"8739ecad471c4e32cdabb7e49a2a7810\"","last-modified":"Sat, 26 May 2018 22:01:33 GMT","vary":"Accept-Encoding"}}}
