@@ -1,0 +1,2 @@
+
+a86975407064c7ebef5791dada59a541751ea72c	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/asap/-/asap-2.0.6.tgz","integrity":"sha1-5QNHYR1+aQlDIIu9r+vLwvuGbUY=","time":1644412133476,"size":11403,"metadata":{"url":"https://registry.npmjs.org/asap/-/asap-2.0.6.tgz","reqHeaders":{},"resHeaders":{"cache-control":"public, immutable, max-age=31557600","content-type":"application/octet-stream","date":"Wed, 09 Feb 2022 13:08:41 GMT","etag":"\"a188629def8596b69af038f700204ee2\"","last-modified":"Sat, 26 May 2018 17:25:23 GMT","vary":"Accept-Encoding"}}}
